@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java-mail>
+    <env-entry>
+        <env-entry-name>webmail-user</env-entry-name>
+        <env-entry-type>java.lang.String</env-entry-type>
+        <env-entry-value>the email that sends messages</env-entry-value>
+    </env-entry>
+    <env-entry>
+        <env-entry-name>webmail-pass</env-entry-name>
+        <env-entry-type>java.lang.String</env-entry-type>
+        <env-entry-value>The password for your email</env-entry-value>
+    </env-entry>
+</java-mail>
