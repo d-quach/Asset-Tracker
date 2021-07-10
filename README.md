@@ -11,7 +11,8 @@ Using this program on your local machine needs:
 2) Update the config.xml file from the "res" folder to have your email and password in the "env-entry-value" tags.
 3) Your email account would have to approve the use of less-secure applications.
 4) Update the variables in the MySQLDriver.java file to match the url, user, and password for connecting to your database.
-5) Export the project as a runnable jar file for use.
+5) Run the asset_tracker_db_schema.sql file located in "res" folder in MySQL to create a few tables.
+6) Export the project as a runnable jar file for use.
 
 Here are some pictures of the program.
 
