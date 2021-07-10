@@ -23,6 +23,6 @@ Here are some pictures of the program.
 
 ![Forgotten Password](https://i.imgur.com/iXHrSFs.png)
 
-![The Asset Page](https://i.imgur.com/2eI8dQK.png)
+![The Asset Page](https://i.imgur.com/NcNgNfC.png)
 
-![Deleting Assets](https://i.imgur.com/IbmNlng.png)
+![Deleting Assets](https://i.imgur.com/sp8aqbP.png)
