@@ -17,12 +17,12 @@ Using this program on your local machine needs:
 Here are some pictures of the program.
 
 
-![Register Account Window](https://i.imgur.com/pbYlHkT.png)
+![Register Account Window](https://i.imgur.com/QrrjzuW.png)
 
-![Log In Page](https://i.imgur.com/og6O2fe.png)
+![Log In Page](https://i.imgur.com/5KCqmFm.png)
 
-![Forgotten Password](https://i.imgur.com/iXHrSFs.png)
+![Forgotten Password](https://i.imgur.com/7CqWloL.png)
 
-![The Asset Page](https://i.imgur.com/NcNgNfC.png)
+![The Asset Page](https://i.imgur.com/H9ks6ao.png)
 
-![Deleting Assets](https://i.imgur.com/sp8aqbP.png)
+![Deleting Assets](https://i.imgur.com/jiwICpB.png)
