@@ -1,4 +1,4 @@
-***Update 2022-09-01***: Google changed their policy on less secure apps attached to an account. Now app passwords can be generated and are separate from the main password. You may add an app password in the res/config.xml file for the Asset Tracker.
+***Update 2022-09-01***: Google changed their policy on less secure apps attached to an account. App passwords can now be generated and are separate from the main password. You may add an app password in the res/config.xml file for the Asset Tracker.
 
 The goal here was to summarize concepts that I have learned in school. This program is complete with a GUI, a connection to a MySQL database, and some features using the JavaMail API.
 GUI programming isn't my strongest point but I learned some things along the way. It might have been better to use the card layout instead of making multiple JFrames.
